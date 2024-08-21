@@ -16,3 +16,15 @@ The Weather App is a simple web application that allows users to get real-time w
   - CSS: Stylesheet language used for designing the layout and appearance.
   - JavaScript: Programming language used to fetch and display the weather data dynamically.
   - Weather API: The app uses a third-party API (e.g., OpenWeatherMap) to retrieve weather data.
+
+# Usage
+  1. Search for a City:
+    - Enter the name of a city in the search bar.
+    - Click the "Search" button or press "Enter".
+    - The weather information for the entered city will be displayed.
+    
+  2. View Weather Details:
+    - The app shows the current temperature, weather description, humidity, wind speed, and an icon representing the weather condition.
+        
+  3. Responsive Design:
+    - The app adjusts its layout based on the device's screen size.
